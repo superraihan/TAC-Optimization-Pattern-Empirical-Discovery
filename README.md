@@ -21,4 +21,4 @@ This pattern has not been formally documented in compiler research. By publishin
 •	Publish findings in an academic paper or preprint.
 # 📜 License & Attribution
 
-This research is published by MD.RAIHAN KABIR NIBIR (22-49956-3) & SADIA AFRIN (22-49854-3). If you reference or build upon this work, please credit the original discovery.
+This research is published by MD. RAIHAN KABIR NIBIR (22-49956-3) & SADIA AFRIN (22-49854-3). If you reference or build upon this work, please credit the original discovery.
